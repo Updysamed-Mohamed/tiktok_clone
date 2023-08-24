@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "554984774094",
+    "project_id": "somalitiktok-b8d77",
+    "storage_bucket": "somalitiktok-b8d77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554984774094:android:0635a206a586120c99f39f",
+        "android_client_info": {
+          "package_name": "com.example.somtok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554984774094-tbpjhocaiqdl72k2a29us3ioud2qq4uv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzHx2kOxvnv3B3x41xSwcwXysE6XdH088"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554984774094-tbpjhocaiqdl72k2a29us3ioud2qq4uv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
