@@ -14,7 +14,7 @@ Welcome to the TikTok Clone App! This app aims to replicate the popular features
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/tiktok-clone.git
+   git clone https://github.com/Updysamed-Mohamed/tiktok_clone
    cd tiktok-clone
 2. Install the dependencies:
      ```sh
@@ -29,9 +29,4 @@ If you find this project useful and would like to support its development, you c
 
 ## Contributing
 Contributions are welcome! Feel free to submit pull requests to help improve the app.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Just replace `"https://www.buymeacoffee.com/updysamed"` with the actual link to your Buy Me a Coffee page. This way, users will be able to click the link and visit your Buy Me a Coffee page to support your work.
 
