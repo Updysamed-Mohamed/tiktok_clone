@@ -36,7 +36,7 @@ class ActionsToolbar extends StatelessWidget {
         _getSocialAction(icon: TikTokIcons.heart, title: numLikes),
         _getSocialAction(icon: TikTokIcons.chat_bubble, title: numComments),
         _getSocialAction(
-            icon: TikTokIcons.reply, title: 'Share', isShare: true),
+            icon: TikTokIcons.reply, title: 'Share', isShare: false),
         CircleImageAnimation(
           child: _getMusicPlayerAction(userPic),
         )
