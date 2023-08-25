@@ -94,7 +94,7 @@ void _uploadVideo() async {
 
     // Show error notification
     ScaffoldMessenger.of(context).showSnackBar(
-      SnackBar(
+     const  SnackBar(
         content: Text('Error uploading video. Please try again.'),
         duration: Duration(seconds: 2),
       ),

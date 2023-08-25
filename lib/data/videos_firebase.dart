@@ -19,7 +19,7 @@ class VideosAPI {
     try {
       var data = await FirebaseFirestore.instance.collection("Videos").get();
 
-      if (data.docs.length == 0) {
+      if (data.docs.isEmpty) {
         await _addDemoData();
         data = await FirebaseFirestore.instance.collection("Videos").get();
       }

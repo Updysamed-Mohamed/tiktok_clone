@@ -66,7 +66,7 @@ class ActionsToolbar extends StatelessWidget {
   Widget _getFollowAction({required String pictureUrl}) {
     return Container(
         margin: EdgeInsets.symmetric(vertical: 10.0),
-        width: 60.0,
+        width: 65.0,
         height: 60.0,
         child:
             Stack(children: [_getProfilePicture(pictureUrl), _getPlusIcon()]));
